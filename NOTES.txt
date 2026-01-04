@@ -1,5 +1,15 @@
+DATA + PRODUCT
+
 Flavor Graph - Github
 https://github.com/lamypark/FlavorGraph/tree/master?tab=readme-ov-file
+
+Usecase with FlavorGraph
+https://epicure.kaikaku.ai/
+
+Food database
+https://cosylab.iiitd.edu.in/flavordb/
+
+THEORY
 
 Flavor combinations - Reddit
 https://www.reddit.com/r/foodhacks/comments/18wq7ly/basic_flavor_combinations_chart_for_world_cuisines/
