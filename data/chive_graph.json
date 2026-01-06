@@ -1,0 +1,587 @@
+{
+    "links": [
+        {
+            "distance": 150,
+            "is_main_connection": true,
+            "level": 1,
+            "similarity": 0.697145192663156,
+            "source": "combined",
+            "target": "185"
+        },
+        {
+            "distance": 150,
+            "is_main_connection": true,
+            "level": 1,
+            "similarity": 0.6820644195849654,
+            "source": "combined",
+            "target": "854"
+        },
+        {
+            "distance": 150,
+            "is_main_connection": true,
+            "level": 1,
+            "similarity": 0.6685323986641977,
+            "source": "combined",
+            "target": "723"
+        },
+        {
+            "distance": 150,
+            "is_main_connection": true,
+            "level": 1,
+            "similarity": 0.6524441155822692,
+            "source": "combined",
+            "target": "450"
+        },
+        {
+            "distance": 150,
+            "is_main_connection": true,
+            "level": 1,
+            "similarity": 0.6438852784949919,
+            "source": "combined",
+            "target": "132"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7318897346006182,
+            "source": "185",
+            "target": "907"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6964320239593231,
+            "source": "185",
+            "target": "860"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6711456326070638,
+            "source": "185",
+            "target": "331"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6640676309715149,
+            "source": "185",
+            "target": "58"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7244584048304028,
+            "source": "854",
+            "target": "298"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7004658525712474,
+            "source": "854",
+            "target": "1014"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6718693565256253,
+            "source": "854",
+            "target": "862"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6649982820684348,
+            "source": "854",
+            "target": "389"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7741672567789227,
+            "source": "723",
+            "target": "211"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7736989052996832,
+            "source": "723",
+            "target": "58"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7425987755222276,
+            "source": "723",
+            "target": "217"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7415928306822615,
+            "source": "723",
+            "target": "631"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7457378817416132,
+            "source": "450",
+            "target": "607"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7187163968751442,
+            "source": "450",
+            "target": "807"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.708780931118652,
+            "source": "450",
+            "target": "860"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6916865509783385,
+            "source": "450",
+            "target": "994"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6574234649953097,
+            "source": "132",
+            "target": "58"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.650792899833921,
+            "source": "132",
+            "target": "1014"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6444802613797198,
+            "source": "132",
+            "target": "971"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6301052432594612,
+            "source": "132",
+            "target": "860"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6482497424364688,
+            "source": "185",
+            "target": "285"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6444109362150992,
+            "source": "185",
+            "target": "316"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.664194247141842,
+            "source": "854",
+            "target": "849"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6640059545481342,
+            "source": "854",
+            "target": "971"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.659566547467302,
+            "source": "854",
+            "target": "1029"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7177569183844261,
+            "source": "723",
+            "target": "414"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7157666663776245,
+            "source": "723",
+            "target": "615"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.7144887999764684,
+            "source": "723",
+            "target": "607"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6890731166080779,
+            "source": "450",
+            "target": "331"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6843370321244775,
+            "source": "450",
+            "target": "211"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6829389307743476,
+            "source": "450",
+            "target": "285"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6297379447722102,
+            "source": "132",
+            "target": "211"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6125768860045118,
+            "source": "132",
+            "target": "55"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.616238188893677,
+            "source": "185",
+            "target": "817"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6086243771118159,
+            "source": "132",
+            "target": "328"
+        },
+        {
+            "distance": 50,
+            "is_main_connection": false,
+            "level": 2,
+            "similarity": 0.6104021660338419,
+            "source": "185",
+            "target": "127"
+        }
+    ],
+    "nodes": [
+        {
+            "category": "Herbs",
+            "id": "combined",
+            "is_combined": true,
+            "level": 0,
+            "name": "chive",
+            "selected": true
+        },
+        {
+            "category": "Seafood",
+            "id": "185",
+            "is_combined": false,
+            "level": 1,
+            "name": "caviar",
+            "selected": false,
+            "similarity_to_center": 0.697145192663156
+        },
+        {
+            "category": "Fish",
+            "id": "854",
+            "is_combined": false,
+            "level": 1,
+            "name": "smoked mackerel",
+            "selected": false,
+            "similarity_to_center": 0.6820644195849654
+        },
+        {
+            "category": "Veg",
+            "id": "723",
+            "is_combined": false,
+            "level": 1,
+            "name": "potato",
+            "selected": false,
+            "similarity_to_center": 0.6685323986641977
+        },
+        {
+            "category": "Spice",
+            "id": "450",
+            "is_combined": false,
+            "level": 1,
+            "name": "horseradish",
+            "selected": false,
+            "similarity_to_center": 0.6524441155822692
+        },
+        {
+            "category": "Grain",
+            "id": "132",
+            "is_combined": false,
+            "level": 1,
+            "name": "brioche",
+            "selected": false,
+            "similarity_to_center": 0.6438852784949919
+        },
+        {
+            "category": "Spice",
+            "id": "1014",
+            "is_combined": false,
+            "level": 2,
+            "name": "white truffle",
+            "selected": false
+        },
+        {
+            "category": "Dairy",
+            "id": "849",
+            "is_combined": false,
+            "level": 2,
+            "name": "smoked cheddar cheese",
+            "selected": false
+        },
+        {
+            "category": "Dairy",
+            "id": "328",
+            "is_combined": false,
+            "level": 2,
+            "name": "edam cheese",
+            "selected": false
+        },
+        {
+            "category": "Dairy",
+            "id": "389",
+            "is_combined": false,
+            "level": 2,
+            "name": "goat cheese",
+            "selected": false
+        },
+        {
+            "category": "Grain",
+            "id": "615",
+            "is_combined": false,
+            "level": 2,
+            "name": "noodle",
+            "selected": false
+        },
+        {
+            "category": "Grain",
+            "id": "127",
+            "is_combined": false,
+            "level": 2,
+            "name": "bread",
+            "selected": false
+        },
+        {
+            "category": "Meat",
+            "id": "58",
+            "is_combined": false,
+            "level": 2,
+            "name": "bacon",
+            "selected": false
+        },
+        {
+            "category": "Veg",
+            "id": "631",
+            "is_combined": false,
+            "level": 2,
+            "name": "onion",
+            "selected": false
+        },
+        {
+            "category": "Veg",
+            "id": "971",
+            "is_combined": false,
+            "level": 2,
+            "name": "truffle mushroom",
+            "selected": false
+        },
+        {
+            "category": "Condiment",
+            "id": "607",
+            "is_combined": false,
+            "level": 2,
+            "name": "mustard",
+            "selected": false
+        },
+        {
+            "category": "Pantry",
+            "id": "217",
+            "is_combined": false,
+            "level": 2,
+            "name": "chicken stock",
+            "selected": false
+        },
+        {
+            "category": "Veg",
+            "id": "414",
+            "is_combined": false,
+            "level": 2,
+            "name": "green pea",
+            "selected": false
+        },
+        {
+            "category": "Herbs",
+            "id": "298",
+            "is_combined": false,
+            "level": 2,
+            "name": "culantro",
+            "selected": false
+        },
+        {
+            "category": "Protein",
+            "id": "331",
+            "is_combined": false,
+            "level": 2,
+            "name": "egg",
+            "selected": false
+        },
+        {
+            "category": "Condiment",
+            "id": "994",
+            "is_combined": false,
+            "level": 2,
+            "name": "verjus",
+            "selected": false
+        },
+        {
+            "category": "Fish",
+            "id": "860",
+            "is_combined": false,
+            "level": 2,
+            "name": "smoked salmon",
+            "selected": false
+        },
+        {
+            "category": "Veg",
+            "id": "55",
+            "is_combined": false,
+            "level": 2,
+            "name": "asparagus",
+            "selected": false
+        },
+        {
+            "category": "Fish",
+            "id": "907",
+            "is_combined": false,
+            "level": 2,
+            "name": "sturgeon",
+            "selected": false
+        },
+        {
+            "category": "Meat",
+            "id": "211",
+            "is_combined": false,
+            "level": 2,
+            "name": "chicken",
+            "selected": false
+        },
+        {
+            "category": "Dairy",
+            "id": "1029",
+            "is_combined": false,
+            "level": 2,
+            "name": "yogurt cheese",
+            "selected": false
+        },
+        {
+            "category": "Protein",
+            "id": "862",
+            "is_combined": false,
+            "level": 2,
+            "name": "smoked tofu",
+            "selected": false
+        },
+        {
+            "category": "Seafood",
+            "id": "285",
+            "is_combined": false,
+            "level": 2,
+            "name": "crab",
+            "selected": false
+        },
+        {
+            "category": "Herbs",
+            "id": "316",
+            "is_combined": false,
+            "level": 2,
+            "name": "dill",
+            "selected": false
+        },
+        {
+            "category": "Seafood",
+            "id": "817",
+            "is_combined": false,
+            "level": 2,
+            "name": "scallop",
+            "selected": false
+        },
+        {
+            "category": "Fish",
+            "id": "807",
+            "is_combined": false,
+            "level": 2,
+            "name": "salmon",
+            "selected": false
+        }
+    ]
+}
