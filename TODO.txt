@@ -1,0 +1,35 @@
+
+About FlavorGraph
+* Implications and promises
+* Understand the data and methods
+* Processing (only use hub ingredients)
+
+Shoutout to Epicure
+* Trying to mimic
+* Explain what they have done (to my knowledge)
+  * Combining ingredients in a way
+
+Try own methods
+* Adding/average embeddings together
+  * Cosine similarities
+  * Why average=adding when computing cosine-sim
+* Smallest "valid" subgraph
+  * Weighted (Steiner Tree)
+  * Un-weighted 
+* Find overlap in embeddings and graphs
+  * No real overlap
+  * Graph is more precise
+  * Embedding properties don't seem quite right
+* Suggest food predictor/recommender
+
+Colorful, intuitive graphs
+* Insert food image inside nodes
+* Node colors should reflect food color
+* Distance should be meaningful
+
+Food manifold
+* T-SNE plots
+  * Interactive for zooming in
+* Insert edge within T-SNE plot?
+
+MAKE SURE TO EMBED A BOKEH PLOT
